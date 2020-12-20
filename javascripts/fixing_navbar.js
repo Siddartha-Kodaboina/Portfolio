@@ -74,9 +74,9 @@ const subject_hover = () =>{
 }
 
 const change_background=()=>{
-    var links = ["../Images/road.jpeg"];
+    var links = ["https://github.com/Steve-siddu/Portfolio/blob/gh-pages/Images/road.jpeg"];
     links.push("https://visme.co/blog/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-01.jpg");
-    links.push("../Images/leaves.jpg");
+    links.push("https://github.com/Steve-siddu/Portfolio/blob/gh-pages/Images/leaves.jpg");
     var k=document.getElementById("particles-js");
     var x=0;
     
