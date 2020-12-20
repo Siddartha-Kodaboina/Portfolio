@@ -74,9 +74,9 @@ const subject_hover = () =>{
 }
 
 const change_background=()=>{
-    var links = ["https://github.com/Steve-siddu/Portfolio/blob/main/Images/road.jpeg"];
+    var links = ["https://directlinedev.com/media/cases/woodwell/header/background_1.wide.jpeg"];
     links.push("https://visme.co/blog/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-01.jpg");
-    links.push("https://github.com/Steve-siddu/Portfolio/blob/main/Images/leaves.jpg");
+    links.push("https://s2.best-wallpaper.net/wallpaper/3840x2160/1708/Green-leaves-water-drops-bokeh-nature_3840x2160.jpg");
     var k=document.getElementById("particles-js");
     var x=0;
     
